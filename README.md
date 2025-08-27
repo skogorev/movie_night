@@ -11,6 +11,7 @@
 # Платформы онлайн вайбкодинга
 - [Lovable](https://lovable.dev)
 - [Replit](https://replit.com/)
+
 Для более продвинутых:
 - [Cursor](https://www.cursor.com/)
 - [ChatGPT](https://chatgpt.com/)
